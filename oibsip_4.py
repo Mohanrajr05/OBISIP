@@ -1,13 +1,3 @@
-#!/usr/bin/python3
-
-# _*_ coding:utf-8 _*_
-
-
-# 3rd project
-# weather app [python Internship Project (OASIS INFOBYTE)]
-# @debang5hu
-
-
 import tkinter
 from tkinter import messagebox
 from PIL import Image,ImageTk
